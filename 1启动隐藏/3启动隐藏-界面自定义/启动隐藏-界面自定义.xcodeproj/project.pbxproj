@@ -449,6 +449,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 8RB35RM424;
 				INFOPLIST_FILE = "启动隐藏-界面自定义/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.idhong.----------";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -461,6 +462,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 8RB35RM424;
 				INFOPLIST_FILE = "启动隐藏-界面自定义/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.idhong.----------";
 				PRODUCT_NAME = "$(TARGET_NAME)";
